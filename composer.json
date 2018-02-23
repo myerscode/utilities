@@ -1,0 +1,43 @@
+{
+  "name": "myerscode/utilities",
+  "description": "A collection of utility classes that make working with types much easier.",
+  "keywords": [
+    "array",
+    "arrays",
+    "directory",
+    "directories",
+    "images",
+    "numbers",
+    "strings",
+    "time",
+    "date",
+    "url",
+    "uri"
+  ],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "myerscode",
+      "email": "team@myerscode.com",
+      "homepage": "https://myerscode.com"
+    },
+    {
+      "name": "Fred Myerscough",
+      "email": "fred@myerscough.co.uk",
+      "homepage": "https://fredmyerscough.co.uk"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "myerscode/utilities-bags": "~0.0.0",
+    "myerscode/utilities-numbers": "~0.0.0",
+    "myerscode/utilities-strings": "~0.0.0"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+    }
+  }
+}
