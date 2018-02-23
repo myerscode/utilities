@@ -11,11 +11,11 @@ You can install this package via composer:
 
 ### Features
 
-####[Bags](https://github.com/myerscode/utilities-bags)
+[Bags](https://github.com/myerscode/utilities-bags)
 A helper for working with collections
 
-####[Strings](https://github.com/myerscode/utilities-strings)
+[Strings](https://github.com/myerscode/utilities-strings)
 A helper for working with strings
 
-####[Numbers](https://github.com/myerscode/utilities-numbers)
+[Numbers](https://github.com/myerscode/utilities-numbers)
 A helper for working with numbers
