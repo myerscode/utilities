@@ -29,9 +29,9 @@
     }
   ],
   "require": {
-    "php": "^7.4||8.0.*",
-    "myerscode/utilities-bags": "^1.0",
-    "myerscode/utilities-numbers": "^1.0",
-    "myerscode/utilities-strings": "^1.0"
+    "php": "^8.1",
+    "myerscode/utilities-bags": "^2.0",
+    "myerscode/utilities-numbers": "^2.0",
+    "myerscode/utilities-strings": "^2.0"
   }
 }
