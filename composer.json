@@ -1,6 +1,6 @@
 {
   "name": "myerscode/utilities",
-  "description": "A collection of utility classes that make working with types much easier.",
+  "description": "A collection of utility classes that make working with things much easier.",
   "keywords": [
     "array",
     "arrays",
@@ -29,15 +29,9 @@
     }
   ],
   "require": {
-    "php": ">=7.0",
-    "myerscode/utilities-bags": "~0.0.0",
-    "myerscode/utilities-numbers": "~0.0.0",
-    "myerscode/utilities-strings": "~0.0.0"
-  },
-  "require-dev": {
-  },
-  "autoload": {
-    "psr-4": {
-    }
+    "php": "^7.4||8.0.*",
+    "myerscode/utilities-bags": "^1.0",
+    "myerscode/utilities-numbers": "^1.0",
+    "myerscode/utilities-strings": "^1.0"
   }
 }
