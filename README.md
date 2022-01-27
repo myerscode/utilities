@@ -1,6 +1,10 @@
 # Utilities
 > A collection of utility classes that make working with things much easier.
 
+[![Latest Stable Version](https://poser.pugx.org/myerscode/utilitie/v/stable)](https://packagist.org/packages/myerscode/utilitie)
+[![Total Downloads](https://poser.pugx.org/myerscode/utilitie/downloads)](https://packagist.org/packages/myerscode/utilitie)
+[![License](https://poser.pugx.org/myerscode/utilitie/license)](https://packagist.org/packages/myerscode/utilitie)
+
 ## Install
 
 You can install this package via composer:
