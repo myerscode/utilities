@@ -6,6 +6,8 @@
     "arrays",
     "directory",
     "directories",
+    "files",
+    "folder",
     "images",
     "numbers",
     "strings",
@@ -31,6 +33,7 @@
   "require": {
     "php": "^8.1",
     "myerscode/utilities-bags": "^2.0",
+    "myerscode/utilities-files": "^2.0",
     "myerscode/utilities-numbers": "^2.0",
     "myerscode/utilities-strings": "^2.0"
   }
